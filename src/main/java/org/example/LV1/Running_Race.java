@@ -1,4 +1,4 @@
-package org.spirng.LV1;
+package org.example.LV1;
 
 import java.util.HashMap;
 
