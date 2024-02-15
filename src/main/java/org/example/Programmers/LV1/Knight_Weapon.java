@@ -1,4 +1,4 @@
-package org.example.LV1;
+package org.example.Programmers.LV1;
 
 public class Knight_Weapon {
     public int solution(int number, int limit, int power) {

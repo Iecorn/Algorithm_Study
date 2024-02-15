@@ -1,4 +1,4 @@
-package org.example.LV1;
+package org.example.Programmers.LV1;
 
 import java.util.Arrays;
 
