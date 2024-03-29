@@ -1,4 +1,4 @@
-package org.example.BackJoon.Silver;
+package org.problems.BackJoon.Silver;
 
 import java.io.BufferedReader;
 import java.io.IOException;
