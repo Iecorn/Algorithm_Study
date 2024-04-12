@@ -30,11 +30,8 @@ public class Visit_Lenth {
                         x -= 1;
                     break;
             }
-            System.out.println("before = " + before);
 
             String after = Integer.toString(x) + Integer.toString(y);
-
-            System.out.println("after = " + after);
 
             if(!history.contains(before+after) & !after.equals(before)){
                 history.add(before+after);
