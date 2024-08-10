@@ -40,3 +40,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/.idea/.name
+/.idea/git_toolbox_blame.xml
+/.idea/prettier.xml
