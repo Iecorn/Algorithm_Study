@@ -81,8 +81,7 @@ public class CityFind_18352 {
             }
         }
 
-        if(!isfind)
+        if (!isfind)
             System.out.println(-1);
-
     }
 }
